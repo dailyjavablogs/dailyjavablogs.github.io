@@ -1,0 +1,8 @@
+---
+layout: post
+blog: "Spring"
+title: "This Week in Spring - October 17th, 2023"
+date: 2023-10-17T00:00:00Z
+image: images/spring.png
+remote_url: "https://spring.io/blog/2023/10/17/this-week-in-spring-october-17th-2023"
+---

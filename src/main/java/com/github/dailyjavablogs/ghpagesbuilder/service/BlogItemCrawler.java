@@ -41,7 +41,7 @@ public class BlogItemCrawler {
 			.retrieve()
 			.toEntity(DataBuffer.class)
 			.mapNotNull(HttpEntity::getBody)
-			.map(DataBuffer::asInputStream)
+			.map(buf -> buf.asInputStream(true))
 			.map(BlogItemCrawler::bodyToFeed)
 			.filter(Optional::isPresent)
 			.map(Optional::get)

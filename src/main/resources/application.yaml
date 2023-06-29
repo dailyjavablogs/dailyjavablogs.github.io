@@ -38,9 +38,9 @@ djb:
     - name: ThorbenJanssen
       feed-url: https://thorben-janssen.com/feed/
       image: images/thorbenjanssen.png
-    - name: Bealdung
+    - name: Baeldung
       feed-url: https://feeds.feedblitz.com/baeldung
-      image: images/bealdung.png
+      image: images/baeldung.png
     - name: InfoWorld
       feed-url: https://www.infoworld.com/category/application-development/index.rss
       image: images/infoworld.png

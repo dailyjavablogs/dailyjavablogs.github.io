@@ -84,7 +84,7 @@ public class BlogItemService {
 		fileLines.add("---");
 		fileLines.add("layout: post");
 		fileLines.add("blog: \"" + blogItem.getBlog() + "\"");
-		fileLines.add("title: \"" + blogItem.getTitle() + "\"");
+		fileLines.add("title: \"" + sanitizeTitle(blogItem.getTitle()) + "\"");
 		fileLines.add("date: " + blogItem.getPublishedAt());
 		fileLines.add("image: " + blogItem.getImage());
 		fileLines.add("remote_url: \"" + blogItem.getUrl() + "\"");
@@ -96,5 +96,9 @@ public class BlogItemService {
 		} catch (IOException e) {
 			logger.error("Unable to write file {}", blogFilePath, e);
 		}
+	}
+
+	private String sanitizeTitle(final String title) {
+		return title.replaceAll("\"", "'");
 	}
 }

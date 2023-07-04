@@ -5,6 +5,11 @@ title = 'Daily Java Blogs'
 theme = "PaperMod"
 googleAnalytics = 'G-EMVT5TFRDE'
 
+[module]
+[[module.imports]]
+    disable = false
+    path = 'github.com/hugomods/google-adsense'
+
 [params]
     environment = "production"
     keywords = ["Java", "Blog"]
@@ -27,6 +32,7 @@ googleAnalytics = 'G-EMVT5TFRDE'
     hideSummary = false
     showtoc = false
     tocopen = false
+    google_adsense = 'ca-pub-5778986975506542'
 
     [params.cover]
         hidden = true

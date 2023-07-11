@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "Reddit"
-title: "Java's Startup Booster: CDS"
-date: 2023-07-11T15:36:47Z
-image: images/reddit.png
-remote_url: "https://www.reddit.com/r/java/comments/14wunrl/javas_startup_booster_cds/"
+blog: "inside.java"
+title: "Java’s Startup Booster: CDS"
+date: 2023-07-11T00:00:00Z
+image: images/java.png
+remote_url: "https://inside.java/2023/07/11/javas-startup-booster-cds/"
 ---

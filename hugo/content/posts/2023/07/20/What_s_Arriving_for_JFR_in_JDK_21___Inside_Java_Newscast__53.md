@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "inside.java"
-title: "What’s Arriving for JFR in JDK 21 - Inside Java Newscast #53"
-date: 2023-07-20T00:00:00Z
-image: images/java.png
-remote_url: "https://inside.java/2023/07/20/java-21-jfr/"
+blog: "Reddit"
+title: "What's Arriving for JFR in JDK 21 - Inside Java Newscast #53"
+date: 2023-07-20T17:20:40Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/154x68l/whats_arriving_for_jfr_in_jdk_21_inside_java/"
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "Reddit"
+blog: "inside.java"
 title: "Upgrading from Java 17 to 21 #RoadTo21"
-date: 2023-08-27T07:37:48Z
-image: images/reddit.png
-remote_url: "https://www.reddit.com/r/java/comments/162jwlb/upgrading_from_java_17_to_21_roadto21/"
+date: 2023-08-27T00:00:00Z
+image: images/java.png
+remote_url: "https://inside.java/2023/08/27/roadto21-upgrade/"
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "inside.java"
+blog: "Reddit"
 title: "Call for Discussion: New Project: Babylon"
-date: 2023-09-06T11:00:00Z
-image: images/java.png
-remote_url: "https://inside.java/2023/09/06/call-for-discussion-babylon/"
+date: 2023-09-06T19:09:12Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/16bsxqh/call_for_discussion_new_project_babylon/"
 ---

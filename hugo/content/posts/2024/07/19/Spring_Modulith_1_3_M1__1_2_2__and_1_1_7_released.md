@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "Spring"
+blog: "Reddit"
 title: "Spring Modulith 1.3 M1, 1.2.2, and 1.1.7 released"
-date: 2024-07-19T00:00:00Z
-image: images/spring.png
-remote_url: "https://spring.io/blog/2024/07/19/spring-modulith-1-3-m1-1-2-2-and-1-1-7-released"
+date: 2024-07-19T09:42:17Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/1e6zsjx/spring_modulith_13_m1_122_and_117_released/"
 ---

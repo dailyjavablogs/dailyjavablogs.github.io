@@ -1,0 +1,8 @@
+---
+layout: post
+blog: "Spring"
+title: "Spring gRPC 0.9.0 available now"
+date: 2025-07-04T00:00:00Z
+image: images/spring.png
+remote_url: "https://spring.io/blog/2025/07/04/spring-grpc-0-9-0-available-now"
+---

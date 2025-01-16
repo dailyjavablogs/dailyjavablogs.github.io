@@ -1,0 +1,8 @@
+---
+layout: post
+blog: "Spring"
+title: "A Bootiful Podcast: Apache Causeway’s Dan Haywood"
+date: 2025-01-16T00:00:00Z
+image: images/spring.png
+remote_url: "https://spring.io/blog/2025/01/16/a-bootiful-podcast-dan-haywood"
+---

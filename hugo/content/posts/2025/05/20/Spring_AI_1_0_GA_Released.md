@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "Spring"
+blog: "Reddit"
 title: "Spring AI 1.0 GA Released"
-date: 2025-05-20T00:00:00Z
-image: images/spring.png
-remote_url: "https://spring.io/blog/2025/05/20/spring-ai-1-0-GA-released"
+date: 2025-05-20T16:25:35Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/1kr9685/spring_ai_10_ga_released/"
 ---

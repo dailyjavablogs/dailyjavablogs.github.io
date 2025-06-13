@@ -1,0 +1,8 @@
+---
+layout: post
+blog: "Spring"
+title: "Spring Data 2025.0.1, 2024.1.7, and 2024.0.13 released"
+date: 2025-06-13T00:00:00Z
+image: images/spring.png
+remote_url: "https://spring.io/blog/2025/06/13/spring-data-2025-0-1-2024-1-7-and-2024-0-13-released"
+---

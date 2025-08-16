@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "inside.java"
+blog: "Reddit"
 title: "Auto-Vectorization in HotSpot #JVMLS"
-date: 2025-08-16T00:00:00Z
-image: images/java.png
-remote_url: "https://inside.java/2025/08/16/jvmls-hotspot-auto-vectorization/"
+date: 2025-08-16T10:26:17Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/1mrrc6n/autovectorization_in_hotspot_jvmls/"
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "inside.java"
+blog: "Reddit"
 title: "Integrity by Default"
-date: 2025-11-04T00:00:00Z
-image: images/java.png
-remote_url: "https://inside.java/2025/11/04/javaone-integrity-by-default/"
+date: 2025-11-04T19:29:41Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/1oogrwc/integrity_by_default/"
 ---

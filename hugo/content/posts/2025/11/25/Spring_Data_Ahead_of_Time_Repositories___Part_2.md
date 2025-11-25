@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "Spring"
+blog: "Reddit"
 title: "Spring Data Ahead of Time Repositories - Part 2"
-date: 2025-11-25T00:00:00Z
-image: images/spring.png
-remote_url: "https://spring.io/blog/2025/11/25/spring-data-ahead-of-time-repositories-part-2"
+date: 2025-11-25T18:06:13Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/1p6jmtd/spring_data_ahead_of_time_repositories_part_2/"
 ---

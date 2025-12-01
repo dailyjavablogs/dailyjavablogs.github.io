@@ -1,6 +1,6 @@
 baseURL = 'https://dailyjavablogs.github.io/'
 languageCode = 'en-us'
-paginate = 10
+pagination.pagerSize = 10
 title = 'Daily Java Blogs'
 theme = "PaperMod"
 googleAnalytics = 'G-EMVT5TFRDE'

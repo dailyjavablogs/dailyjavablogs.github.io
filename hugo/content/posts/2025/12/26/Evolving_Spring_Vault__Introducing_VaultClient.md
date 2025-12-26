@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "Spring"
+blog: "Reddit"
 title: "Evolving Spring Vault: Introducing VaultClient"
-date: 2025-12-26T00:00:00Z
-image: images/spring.png
-remote_url: "https://spring.io/blog/2025/12/26/evolving-spring-vault"
+date: 2025-12-26T15:46:01Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/1pw7ajb/evolving_spring_vault_introducing_vaultclient/"
 ---

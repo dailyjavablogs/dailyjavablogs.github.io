@@ -1,0 +1,8 @@
+---
+layout: post
+blog: "inside.java"
+title: "Introduction to HotSpot JVM C2 JIT Compiler, Part 4"
+date: 2025-03-07T00:00:00Z
+image: images/java.png
+remote_url: "https://inside.java/2025/03/07/intro-to-hotspot-c2-jit-part4/"
+---

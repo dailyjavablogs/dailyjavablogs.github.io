@@ -50,9 +50,9 @@ djb:
     - name: inside.java
       feed-url: https://inside.java/feed.xml
       image: images/java.png
-    - name: debugagent
-      feed-url: https://debugagent.com/rss.xml
-      image: images/debugagent.png
     - name: Foojay
       feed-url: https://foojay.io/feed/
       image: images/foojay.png
+    - name: JetBrains IntelliJ IDEA Blog
+      feed-url: https://blog.jetbrains.com/idea/feed/
+      image: images/intellij.png

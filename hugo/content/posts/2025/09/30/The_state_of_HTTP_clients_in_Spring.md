@@ -1,8 +1,0 @@
----
-layout: post
-blog: "Spring"
-title: "The state of HTTP clients in Spring"
-date: 2025-09-30T00:00:00Z
-image: images/spring.png
-remote_url: "https://spring.io/blog/2025/09/30/the-state-of-http-clients-in-spring"
----

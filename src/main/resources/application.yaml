@@ -53,3 +53,6 @@ djb:
     - name: debugagent
       feed-url: https://debugagent.com/rss.xml
       image: images/debugagent.png
+    - name: Foojay
+      feed-url: https://foojay.io/feed/
+      image: images/foojay.png

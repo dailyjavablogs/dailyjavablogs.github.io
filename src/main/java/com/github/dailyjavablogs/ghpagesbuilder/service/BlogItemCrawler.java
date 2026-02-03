@@ -15,6 +15,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 import java.io.IOException;
 import java.io.InputStream;
 import java.time.Instant;
+import java.time.LocalDate;
 import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
@@ -35,7 +36,7 @@ public class BlogItemCrawler {
 		}
 	}
 
-	public List<BlogItem> loadNewBlogItemsOfBlog(final Blog blog) {
+	public List<BlogItem> loadNewBlogItemsOfBlog(final Blog blog, final LocalDate notBefore) {
 		final List<SyndEntry> blogEntries = webClient.get()
 			.uri(blog.getFeedUrl())
 			.retrieve()
@@ -53,6 +54,16 @@ public class BlogItemCrawler {
 		}
 
 		return blogEntries.stream()
+			.filter(se -> {
+				if (se.getPublishedDate() == null) {
+					return false;
+				}
+				final LocalDate publishedDate = se.getPublishedDate()
+					.toInstant()
+					.atZone(Instant.now().atZone(java.time.ZoneId.systemDefault()).getZone())
+					.toLocalDate();
+				return !publishedDate.isBefore(notBefore);
+			})
 			.map(se -> {
 				final BlogItem b = new BlogItem();
 				b.setBlog(blog.getName());

@@ -45,7 +45,7 @@ public class BlogItemService {
 		configurationProperties.getSources().forEach(blog -> {
 			logger.debug("Updating blog {} with feed {}", blog.getName(), blog.getFeedUrl());
 			try {
-				blogItemCrawler.loadNewBlogItemsOfBlog(blog)
+				blogItemCrawler.loadNewBlogItemsOfBlog(blog, configurationProperties.getNotBefore())
 					.forEach(blogItem -> {
 						final Optional<BlogItem> existingBlogItem =
 							blogItemRepository.findOneByBlogAndUrl(blogItem.getBlog(), blogItem.getUrl());

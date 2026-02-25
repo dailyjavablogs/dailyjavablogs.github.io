@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "inside.java"
+blog: "Reddit"
 title: "Dissecting the CPU-Memory Relationship in Garbage Collection"
-date: 2026-02-24T00:00:00Z
-image: images/java.png
-remote_url: "https://inside.java/2026/02/24/gc-cost-cpu-vs-memory/"
+date: 2026-02-24T22:29:15Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/1rduzrd/dissecting_the_cpumemory_relationship_in_garbage/"
 ---

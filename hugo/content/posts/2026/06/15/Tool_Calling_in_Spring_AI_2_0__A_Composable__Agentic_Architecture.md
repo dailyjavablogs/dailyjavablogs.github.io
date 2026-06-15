@@ -1,0 +1,8 @@
+---
+layout: post
+blog: "Spring"
+title: "Tool Calling in Spring AI 2.0: A Composable, Agentic Architecture"
+date: 2026-06-15T00:00:00Z
+image: images/spring.png
+remote_url: "https://spring.io/blog/2026/06/15/spring-ai-composable-tool-calling"
+---

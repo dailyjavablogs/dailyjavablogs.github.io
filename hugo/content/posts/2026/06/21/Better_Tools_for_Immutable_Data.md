@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "Reddit"
+blog: "inside.java"
 title: "Better Tools for Immutable Data"
-date: 2026-06-21T10:50:09Z
-image: images/reddit.png
-remote_url: "https://www.reddit.com/r/java/comments/1ubn0gg/better_tools_for_immutable_data/"
+date: 2026-06-21T00:00:00Z
+image: images/java.png
+remote_url: "https://inside.java/2026/06/21/better-tools-immutable-data/"
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "inside.java"
+blog: "Reddit"
 title: "Principles of Memory Management in Java"
-date: 2026-09-04T00:00:00Z
-image: images/java.png
-remote_url: "https://inside.java/2026/09/04/memory-management-principles-java/"
+date: 2026-09-04T17:11:33Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/1w7afwf/principles_of_memory_management_in_java/"
 ---

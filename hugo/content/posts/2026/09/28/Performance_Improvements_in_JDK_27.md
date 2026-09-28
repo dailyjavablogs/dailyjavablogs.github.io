@@ -1,8 +1,8 @@
 ---
 layout: post
-blog: "inside.java"
+blog: "Reddit"
 title: "Performance Improvements in JDK 27"
-date: 2026-09-28T00:00:00Z
-image: images/java.png
-remote_url: "https://inside.java/2026/09/28/performance-update-jdk27/"
+date: 2026-09-28T14:55:45Z
+image: images/reddit.png
+remote_url: "https://www.reddit.com/r/java/comments/1wsgtqi/performance_improvements_in_jdk_27/"
 ---
